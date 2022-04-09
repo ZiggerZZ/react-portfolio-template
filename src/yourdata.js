@@ -20,18 +20,18 @@ export default {
   name: "Zigfrid",
   headerTagline: [
     //Line 1 For Header
-    "Building AI,",
+    "Making startups,",
     //Line 2 For Header
     "doing parkour",
     //Line 3 For Header
-    "and travelling",
+    "and crypto",
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm currently looking for interesting projects to take part in 🕵🏻‍♂️",
+    "I'm currently a CTO founder in Entrepreneur First",
 
   //Contact Email
-  contactEmail: "zigfrid.zvezdin+site@kes.polytechnique.fr",
+  contactEmail: "zigfrid.zvezdin@polytechnique.edu",
 
   // End Header Details -----------------------
 
